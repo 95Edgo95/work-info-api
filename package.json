@@ -62,6 +62,6 @@
     "ts-node": "^5.0.1",
     "tslint": "^5.9.1",
     "tslint-config-airbnb": "^5.11.1",
-    "xlsx": "^0.14.1"
+    "xlsx": "^0.17.0"
   }
 }
